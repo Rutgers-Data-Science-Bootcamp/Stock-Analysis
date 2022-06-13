@@ -21,9 +21,9 @@ Steve has an excel file with stock data to analyze and he needs macros to run th
 
 3. I measured the perforamnce of the macro after refractoring which is much faster than previous code. 
 
-https://github.com/ShiraliObul/stock-analysis/blob/cdf6be77e918f95cd1400b3ba0412529e0ae46de/Resources/VBA_Challenge_2017.png
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/65901034/173419932-9de109c6-d970-4585-9bca-14d19d421462.png)
 
-https://github.com/ShiraliObul/stock-analysis/blob/cdf6be77e918f95cd1400b3ba0412529e0ae46de/Resources/VBA_Challenge_2018.png
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/65901034/173419922-233ffd42-b6bd-401b-bc5a-5bc6f54dabda.png)
 
 
 
