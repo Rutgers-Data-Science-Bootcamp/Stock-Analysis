@@ -14,6 +14,7 @@ Dim tickersVolume(12) as Long
 Dim tickerStartingPrice as Single
 tickerEndingPrice as Single 
 2. Create for loops to loop through the 4 arrays to output the "Ticker", "Total Daily Volume", and "Return" columns in the spread sheet as follwoing for 2017 and 2018, respectively.
+
 ![2017_Stocks](https://user-images.githubusercontent.com/65901034/173418495-57f74eb7-2b6a-47a9-bf7c-e5c212991787.png)
 
 ![2018_Stocks](https://user-images.githubusercontent.com/65901034/173418504-eb2adb21-2ba9-4e5b-99ca-ac491ce4dbad.png)
