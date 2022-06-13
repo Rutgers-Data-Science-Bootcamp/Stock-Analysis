@@ -19,13 +19,14 @@ Steve has an excel file with stock data to analyze and he needs macros to run th
 
 ![2018_Stocks](https://user-images.githubusercontent.com/65901034/173418504-eb2adb21-2ba9-4e5b-99ca-ac491ce4dbad.png)
 
+Apparently, stocks return overall was much better in 2017 as compare to 2018 where most of the stocks return are negative. 
+
 3. I measured the perforamnce of the macro after refractoring which is much faster than previous code. 
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/65901034/173419932-9de109c6-d970-4585-9bca-14d19d421462.png)
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/65901034/173419922-233ffd42-b6bd-401b-bc5a-5bc6f54dabda.png)
 
-
-
-
 ## Summary
+1. Refractoring the code makes my code more neat, fewer codes, and faster exeute time. 
+2. These advantages mentioned above applied to the original VBA nicely, made it significantly fater than older one, almost 10 times faster. However, disadvantage for me was to understand to use tickerIndex in the right place to go through all the indexs in the arrays, this gave me very hard time. 
