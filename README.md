@@ -20,7 +20,8 @@ Steve has an excel file with stock data to analyze and he needs macros to run th
 ![2018_Stocks](https://user-images.githubusercontent.com/65901034/173418504-eb2adb21-2ba9-4e5b-99ca-ac491ce4dbad.png)
 
 3. I measured the perforamnce of the macro after refractoring which is much faster than previous code. 
-
+Resources/VBA_Challenge_2017.png
+Resources/VBA_Challenge_2018.png
 
 
 
